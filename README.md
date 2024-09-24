@@ -1,5 +1,5 @@
 <h1>Hi, I’m Pauline Ann! 🤗</h1>
-<p>👩‍💻 Computer Science junior at PUP Manila</p>
+<p>👩‍💻 4th year Computer Science student</p>
 <p>💻 Currently exploring the world of web development</p>
 <p>🤸 Master of none</p>
 
