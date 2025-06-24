@@ -4,7 +4,6 @@
 <p>🤸 Master of none</p>
 
 <h3>My github stats:</h3>
-<a href="https://github.com/paulineeannn/paulineeannn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulineeannn&theme=dracula&hide_border=true"></a><br>
 <a href="https://github.com/paulineeannn/paulineeannn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulineeannn&theme=dracula&show_icons=true&hide_border=true&layout=compact"></a>
 
 <br>
