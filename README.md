@@ -1,7 +1,4 @@
 <h1>Hi, I’m Pauline Ann! 🤗</h1>
-<p>👩‍💻 4th year Computer Science student</p>
-<p>💻 Currently exploring the world of web development</p>
-<p>🤸 Master of none</p>
 
 <h3>My github stats:</h3>
 <a href="https://github.com/paulineeannn/paulineeannn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulineeannn&theme=dracula&show_icons=true&hide_border=true&layout=compact"></a>
